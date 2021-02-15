@@ -2,7 +2,7 @@
 Code  for the WWW21 paper, [Cloak](https://arxiv.org/abs/2003.12154).
 
 
-The model checkpoints used to produce the results are provided at \url{https://zenodo.org/record/3887495}. 
+The model checkpoints used to produce the results are provided at https://doi.org/10.5281/zenodo.4540871. 
 
 All the code is available in the form of Jupyter notebooks, in the *code* directory in this repo. You need to first download all the checkpoints and numpy folders from the link above, and then extract them and place them in their corrosponding directories in the code folder.The code and numpy files have the same directory structure. They each contain 5 Folders named *exp1-trade-off, exp2-adversary, exp3-black-box, exp4-fairness and exp5-shredder* which are related to the results in the experiments sectoin in the same order. 
 
